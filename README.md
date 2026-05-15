@@ -1,2 +1,7 @@
-# demo-fernandez-lopez-propiedades
-Demo web para FERNANDEZ LOPEZ PROPIEDADES — diseñada por eterlab.
+# FERNANDEZ LOPEZ PROPIEDADES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
